@@ -1,6 +1,6 @@
-# sam01
-# Arduino Compatible Robotics Board for 
-# Makers and STEM Education
+# SAM01 - Arduino Compatible Robotics Board for Makers and STEM Education
+
+<img src="images/sam01_front.jpg" width="512" alt="SAM01 - Arduino Robotics Board" />
 
 SAM01 is built for projects which need to work with the mobile app, servos motion tracking in mind.  With onboard Bluetooth Low Energy module, it is compatible with both Android and iOS.
 
