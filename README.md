@@ -2,7 +2,7 @@
 
 <img src="images/sam01_front.jpg" width="512" alt="SAM01 - Arduino Robotics Board" />
 
-SAM01 is built for projects which need to work with mobile app, servos and motion tracking in mind.  With onboard Bluetooth Low Energy module, it is compatible with both Android and iOS.
+SAM01 is built for projects which need to work with mobile app, servos and motion tracking in mind.  With onboard Bluetooth Low Energy (BLE) module, it is compatible with both Android and iOS.
 
 It is ideal for building your own Bluetooth control robot, R/C car with motion tracking, Fitness Tracker, Vehicle Monitor, Home automation and much more.
 
